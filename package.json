@@ -1,0 +1,10 @@
+{
+  "author": "james.simone <jamirus99@gmail.com>",
+  "dependencies": {
+    "react": "^16.8.1"
+  },
+  "license": "MIT",
+  "main": "",
+  "name": "curalate-react",
+  "version": "1.0.0"
+}
